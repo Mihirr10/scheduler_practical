@@ -1,4 +1,6 @@
-import com.scheduler.Task;
+package com.scheduler;
+
+import com.scheduler.Task.Task;
 
 import java.util.Calendar;
 import java.util.concurrent.Executors;

@@ -1,4 +1,4 @@
-package com.scheduler;
+package com.scheduler.Task;
 
 import java.util.Calendar;
 
